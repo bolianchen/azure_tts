@@ -4,13 +4,17 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-      alphabet="sapi" xml:lang="ja-JP">
+      alphabet="ipa" xml:lang="en-US">
     <lexeme>
-        <grapheme>NISA</grapheme>
-        <phoneme>ニーサ</phoneme>
+        <grapheme>BTW</grapheme>
+        <alias>By the way</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme> Benigni </grapheme>
+        <phoneme> bɛˈniːnji</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>😀</grapheme>
-        <alias>にっこり笑う</alias>
+        <alias>test emoji</alias>
     </lexeme>
 </lexicon>
